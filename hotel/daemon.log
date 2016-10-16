@@ -1,0 +1,203 @@
+12 Oct 09:20:03 - Watching /Users/paul/.hotel/servers
+create /Users/paul/.hotel/daemon.pid 66186
+12 Oct 09:20:03 - Server listening on port 127.0.0.1:2000
+12 Oct 09:21:31 - Serve proxy.pac
+12 Oct 09:21:31 - Serve proxy.pac
+12 Oct 09:21:31 - Serve proxy.pac
+12 Oct 09:21:31 - Serve proxy.pac
+12 Oct 09:21:32 - Serve proxy.pac
+12 Oct 09:21:35 - Serve proxy.pac
+12 Oct 09:21:38 - hotel.dev
+12 Oct 09:21:38 - hotel.dev
+12 Oct 09:21:38 - hotel.dev
+12 Oct 09:21:38 - hotel.dev
+12 Oct 09:21:39 - hotel.dev
+12 Oct 09:22:30 - Serve proxy.pac
+12 Oct 09:22:38 - Serve proxy.pac
+12 Oct 09:23:00 - Serve proxy.pac
+12 Oct 09:23:23 - Serve proxy.pac
+12 Oct 09:23:23 - Serve proxy.pac
+12 Oct 09:24:55 - Serve proxy.pac
+12 Oct 09:26:47 - Serve proxy.pac
+12 Oct 09:31:09 - Serve proxy.pac
+12 Oct 09:31:13 - /Users/paul/.hotel/servers/test-hotel.json added
+12 Oct 09:31:13 - Add server test-hotel
+12 Oct 09:31:13 - hotel.dev
+12 Oct 09:31:23 - hotel.dev
+12 Oct 09:31:23 - hotel.dev
+12 Oct 09:31:23 - hotel.dev
+12 Oct 09:31:23 - hotel.dev
+12 Oct 09:31:24 - hotel.dev
+12 Oct 09:31:24 - hotel.dev
+12 Oct 09:31:26 - Resolve test-hotel
+12 Oct 09:31:26 - test-hotel has started
+12 Oct 09:31:28 - test-hotel child process has exited
+12 Oct 09:31:28 - test-hotel has crashed
+12 Oct 09:31:28 - test-hotel has stopped
+12 Oct 09:31:38 - hotel.dev
+12 Oct 09:31:38 - hotel.dev
+12 Oct 09:31:38 - hotel.dev
+12 Oct 09:31:38 - hotel.dev
+12 Oct 09:31:39 - hotel.dev
+12 Oct 09:31:39 - hotel.dev
+12 Oct 09:31:41 - Resolve test-hotel
+12 Oct 09:31:41 - test-hotel has started
+12 Oct 09:31:43 - test-hotel child process has exited
+12 Oct 09:31:43 - test-hotel has crashed
+12 Oct 09:31:43 - test-hotel has stopped
+12 Oct 09:32:51 - Serve proxy.pac
+12 Oct 09:38:47 - Resolve test-hotel
+12 Oct 09:38:47 - test-hotel has started
+12 Oct 09:38:49 - test-hotel child process has exited
+12 Oct 09:38:49 - test-hotel has crashed
+12 Oct 09:38:49 - test-hotel has stopped
+12 Oct 09:38:52 - Resolve test-hotel
+12 Oct 09:38:52 - test-hotel has started
+12 Oct 09:38:54 - test-hotel child process has exited
+12 Oct 09:38:54 - test-hotel has crashed
+12 Oct 09:38:54 - test-hotel has stopped
+12 Oct 09:39:46 - /Users/paul/.hotel/servers/test-hotel.json unlinked
+12 Oct 09:39:46 - test-hotel has stopped
+12 Oct 09:39:52 - hotel.dev
+12 Oct 09:39:52 - hotel.dev
+12 Oct 09:39:52 - hotel.dev
+12 Oct 09:39:52 - hotel.dev
+12 Oct 09:39:53 - hotel.dev
+12 Oct 09:39:58 - hotel.dev
+12 Oct 09:39:58 - hotel.dev
+12 Oct 09:39:58 - hotel.dev
+12 Oct 09:39:58 - hotel.dev
+12 Oct 09:46:05 - Serve proxy.pac
+12 Oct 09:47:34 - Serve proxy.pac
+12 Oct 09:47:47 - Serve proxy.pac
+12 Oct 09:47:53 - Serve proxy.pac
+12 Oct 09:47:53 - Serve proxy.pac
+12 Oct 09:48:23 - /Users/paul/.hotel/servers/paul-test.json added
+12 Oct 09:48:23 - Add server paul-test
+12 Oct 09:48:24 - hotel.dev
+12 Oct 09:48:32 - Resolve paul-test
+12 Oct 09:48:32 - paul-test has started
+12 Oct 09:48:36 - Resolve paul-test
+12 Oct 09:48:41 - Proxy http://paul-test.dev to http://localhost:57458
+12 Oct 09:48:41 - Proxy error
+12 Oct 09:48:42 - Resolve paul-test
+12 Oct 09:48:47 - Proxy http://paul-test.dev to http://localhost:57458
+12 Oct 09:48:47 - Proxy error
+12 Oct 09:48:51 - Resolve paul-test
+12 Oct 09:48:56 - Proxy http://paul-test.dev to http://localhost:57458
+12 Oct 09:48:57 - Proxy error
+12 Oct 09:48:57 - Resolve paul-test
+12 Oct 09:49:02 - Proxy http://paul-test.dev to http://localhost:57458
+12 Oct 09:49:02 - Proxy error
+12 Oct 09:49:21 - Resolve paul-test
+12 Oct 09:49:21 - paul-test child process has exited
+12 Oct 09:49:21 - paul-test has stopped
+12 Oct 09:49:45 - /Users/paul/.hotel/servers/paul-test.json unlinked
+12 Oct 09:50:49 - /Users/paul/.hotel/servers/paul-test.json added
+12 Oct 09:50:49 - Add server paul-test
+12 Oct 09:50:52 - Resolve paul-test
+12 Oct 09:50:52 - paul-test has started
+12 Oct 09:51:06 - Resolve paul-test
+12 Oct 09:51:06 - Proxy http://paul-test.dev to http://localhost:57671
+12 Oct 09:51:07 - Resolve paul-test
+12 Oct 09:51:07 - Proxy http://paul-test.dev to http://localhost:57671
+12 Oct 09:51:15 - Resolve paul-test
+12 Oct 09:51:15 - Proxy http://paul-test.dev to http://localhost:57671
+12 Oct 09:51:17 - Resolve paul-test
+12 Oct 09:51:17 - Proxy http://paul-test.dev to http://localhost:57671
+12 Oct 09:51:40 - Resolve paul-test
+12 Oct 09:51:40 - paul-test child process has exited
+12 Oct 09:51:40 - paul-test has stopped
+12 Oct 09:51:51 - Resolve paul-test
+12 Oct 09:51:51 - paul-test has started
+12 Oct 09:51:52 - Proxy http://paul-test.dev to http://localhost:57671
+12 Oct 09:51:58 - Resolve paul-test
+12 Oct 09:51:58 - paul-test child process has exited
+12 Oct 09:51:58 - paul-test has stopped
+12 Oct 09:54:20 - Serve proxy.pac
+12 Oct 09:54:20 - Serve proxy.pac
+12 Oct 09:55:14 - Serve proxy.pac
+12 Oct 10:04:52 - Serve proxy.pac
+12 Oct 11:49:04 - Watching /Users/paul/.hotel/servers
+12 Oct 11:49:04 - /Users/paul/.hotel/servers/paul-test.json added
+12 Oct 11:49:04 - Add server paul-test
+create /Users/paul/.hotel/daemon.pid 4665
+12 Oct 11:49:04 - Server listening on port 127.0.0.1:2000
+12 Oct 11:49:04 - /Users/paul/.hotel/servers/paul-test.json added
+12 Oct 11:49:04 - Add server paul-test
+12 Oct 11:49:16 - hotel.dev
+12 Oct 11:49:16 - hotel.dev
+12 Oct 11:49:16 - hotel.dev
+12 Oct 11:49:16 - hotel.dev
+12 Oct 11:49:17 - hotel.dev
+12 Oct 11:50:12 - hotel.dev
+12 Oct 11:50:12 - hotel.dev
+12 Oct 11:50:12 - hotel.dev
+12 Oct 11:50:12 - hotel.dev
+12 Oct 11:50:13 - hotel.dev
+12 Oct 11:50:13 - hotel.dev
+12 Oct 12:04:15 - /Users/paul/.hotel/servers/google.json added
+12 Oct 12:04:15 - Add target google
+12 Oct 12:04:23 - Resolve google
+12 Oct 12:04:23 - Proxy http://google.dev to https://www.google.com
+12 Oct 12:04:23 - Proxy error
+12 Oct 12:04:24 - Resolve google
+12 Oct 12:04:24 - Proxy http://google.dev to https://www.google.com
+12 Oct 12:04:24 - Proxy error
+12 Oct 12:04:41 - /Users/paul/.hotel/servers/google.json unlinked
+12 Oct 12:04:43 - Resolve google
+12 Oct 12:04:43 - Can't find server id: undefined
+12 Oct 12:04:44 - Resolve google
+12 Oct 12:04:44 - Can't find server id: undefined
+12 Oct 12:04:44 - hotel.dev
+12 Oct 12:04:45 - hotel.dev
+12 Oct 12:04:45 - hotel.dev
+12 Oct 12:04:45 - hotel.dev
+12 Oct 12:04:45 - hotel.dev
+12 Oct 12:07:14 - /Users/paul/.hotel/servers/npm-debug.log added
+12 Oct 12:07:14 - Error: Failed to parse /Users/paul/.hotel/servers/npm-debug.log SyntaxError: Unexpected token i in JSON at position 2
+    at Object.parse (native)
+    at handleAdd (/Users/paul/.nvm/versions/node/v6.7.0/lib/node_modules/hotel/lib/daemon/loader.js:19:21)
+    at FSWatcher.<anonymous> (/Users/paul/.nvm/versions/node/v6.7.0/lib/node_modules/hotel/lib/daemon/loader.js:51:14)
+    at emitOne (events.js:96:13)
+    at FSWatcher.emit (events.js:188:7)
+    at FSWatcher.<anonymous> (/Users/paul/.nvm/versions/node/v6.7.0/lib/node_modules/hotel/node_modules/chokidar/index.js:191:15)
+    at FSWatcher._emit (/Users/paul/.nvm/versions/node/v6.7.0/lib/node_modules/hotel/node_modules/chokidar/index.js:233:5)
+    at FSWatcher.<anonymous> (/Users/paul/.nvm/versions/node/v6.7.0/lib/node_modules/hotel/node_modules/chokidar/lib/fsevents-handler.js:204:14)
+    at addOrChange (/Users/paul/.nvm/versions/node/v6.7.0/lib/node_modules/hotel/node_modules/chokidar/lib/fsevents-handler.js:210:7)
+    at /Users/paul/.nvm/versions/node/v6.7.0/lib/node_modules/hotel/node_modules/chokidar/lib/fsevents-handler.js:216:35
+12 Oct 12:09:36 - /Users/paul/.hotel/servers/npm-debug.log changed
+12 Oct 12:09:36 - /Users/paul/.hotel/servers/npm-debug.log unlinked
+12 Oct 12:09:36 - /Users/paul/.hotel/servers/npm-debug.log added
+12 Oct 12:09:36 - Error: Failed to parse /Users/paul/.hotel/servers/npm-debug.log SyntaxError: Unexpected token i in JSON at position 2
+    at Object.parse (native)
+    at handleAdd (/Users/paul/.nvm/versions/node/v6.7.0/lib/node_modules/hotel/lib/daemon/loader.js:19:21)
+    at /Users/paul/.nvm/versions/node/v6.7.0/lib/node_modules/hotel/lib/daemon/loader.js:35:5
+    at Group.remove (/Users/paul/.nvm/versions/node/v6.7.0/lib/node_modules/hotel/lib/daemon/group.js:201:13)
+    at handleUnlink (/Users/paul/.nvm/versions/node/v6.7.0/lib/node_modules/hotel/lib/daemon/loader.js:29:9)
+    at handleChange (/Users/paul/.nvm/versions/node/v6.7.0/lib/node_modules/hotel/lib/daemon/loader.js:34:3)
+    at FSWatcher.<anonymous> (/Users/paul/.nvm/versions/node/v6.7.0/lib/node_modules/hotel/lib/daemon/loader.js:53:14)
+    at emitOne (events.js:96:13)
+    at FSWatcher.emit (events.js:188:7)
+    at FSWatcher.<anonymous> (/Users/paul/.nvm/versions/node/v6.7.0/lib/node_modules/hotel/node_modules/chokidar/index.js:191:15)
+12 Oct 12:12:10 - /Users/paul/.hotel/servers/npm-debug.log unlinked
+12 Oct 12:27:44 - Serve proxy.pac
+12 Oct 12:29:18 - Serve proxy.pac
+15 Oct 13:51:54 - Watching /Users/paul/.hotel/servers
+15 Oct 13:51:54 - /Users/paul/.hotel/servers/paul-test.json added
+15 Oct 13:51:54 - Add server paul-test
+create /Users/paul/.hotel/daemon.pid 493
+15 Oct 13:51:54 - Server listening on port 127.0.0.1:2000
+15 Oct 13:51:55 - Serve proxy.pac
+15 Oct 13:51:55 - Serve proxy.pac
+15 Oct 13:51:55 - Serve proxy.pac
+15 Oct 13:51:55 - Serve proxy.pac
+15 Oct 13:51:55 - /Users/paul/.hotel/servers/paul-test.json added
+15 Oct 13:51:55 - Add server paul-test
+15 Oct 13:51:57 - Serve proxy.pac
+15 Oct 13:51:57 - Serve proxy.pac
+15 Oct 13:51:57 - Serve proxy.pac
+15 Oct 13:52:03 - Serve proxy.pac
+15 Oct 13:52:05 - Serve proxy.pac
+15 Oct 13:52:05 - Serve proxy.pac
+15 Oct 13:52:05 - Serve proxy.pac

@@ -1,0 +1,15 @@
+function e() { atom "${1:-.}"; }
+function gi() { curl -L -s https://www.gitignore.io/api/$@ ;}
+#google() {
+#	search=""
+#	echo "Googling: $@"
+#	for term in $@; do
+#	    search="$search%20$term"
+#	done
+#	open "http://www.google.com/search?q=$search"
+#}
+mkdot() {
+  cp -R .$1 .dotfiles/$1
+  mv .$1 .orig/.$1.orig
+  ln -s .dotfiles/$1 .$1
+}

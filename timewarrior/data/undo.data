@@ -1,0 +1,40 @@
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161008T171857Z"}
+txn:
+  type: interval
+  before: {"start":"20161008T171857Z"}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161008T171857Z","end":"20161008T171900Z"}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161008T171916Z"}
+txn:
+  type: interval
+  before: {"start":"20161008T171916Z"}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161008T171916Z","end":"20161008T171922Z"}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161008T171928Z","tags":["Research"]}
+txn:
+  type: interval
+  before: {"start":"20161008T171928Z","tags":["Research"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161008T171928Z","end":"20161008T171934Z","tags":["Research"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20161008T160000Z","end":"20161008T172038Z","tags":["Sample"]}
