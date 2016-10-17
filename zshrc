@@ -62,4 +62,5 @@ source $ZSH/oh-my-zsh.sh
 source ~/.functions
 export PATH="/usr/local/sbin:$PATH"
 source ~/shell-do-backup.sh
+ . `brew --prefix`/etc/profile.d/z.sh
 
